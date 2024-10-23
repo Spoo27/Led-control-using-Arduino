@@ -73,3 +73,4 @@ Weighing Machines </br>
 
 
 ## RESULT
+The project successfully achieved its objective of creating a simple yet effective LED control system using an Arduino and a push button.

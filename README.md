@@ -1,6 +1,6 @@
-### NAME      : Spoorthi.V
-### REG NO    : 24007430
-## EXPERIMENT : LED-CONTROL-USING-ARDUINO
+### NAME        : Spoorthi.V
+### REG NO      : 24007430
+## EXPERIMENT 01: LED CONTROL USING ARDUINO
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
